@@ -11,3 +11,5 @@ try {
 }
 
 exports.dayOfTheWeek = dayOfTheWeek;
+
+console.log('Working!');
