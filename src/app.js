@@ -12,4 +12,4 @@ try {
 
 exports.dayOfTheWeek = dayOfTheWeek;
 
-console.log("Working!");
+console.log('Working!');
