@@ -17,4 +17,4 @@ jobs:
       - run: npm test
       - run: npm run build
       - name: Run ESLint
-        run: npx eslint src/**/*.{js,jsx}
+        run: npx eslint ../src/* --ext .js,.jsx,.ts,.tsx
